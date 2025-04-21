@@ -1,4 +1,4 @@
-# Basic Chatbot 2
+# Chatbot App
 
 A full-stack AI-powered chatbot application with PDF document Q&A, web search, authentication, and a modern React UI.
 
